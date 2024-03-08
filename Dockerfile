@@ -12,7 +12,6 @@ git \
 postgresql-client \
 supervisor \
 libicu-dev \
-libmpdec-dev \
 libpq-dev \
 libjpeg-dev \
 libpng-dev \

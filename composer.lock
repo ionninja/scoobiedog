@@ -7688,7 +7688,7 @@
             "version": "4.17.1",
             "source": {
                 "type": "git",
-                "url": "https://gitlab.pavlovia.org/cdog/code_Panel",
+                "url": "https://github.com/ionninja/panel",
                 "reference": "aa9c172f78144b3a3d162f3f85223de610f37b32"
             },
             "require": {
